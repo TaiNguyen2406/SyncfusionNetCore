@@ -1,0 +1,11 @@
+{
+  "version": "1.0.0",
+  "name": "asp.net",
+  "private": true,
+  "devDependencies": {},
+  "dependencies": {
+    "@syncfusion/ej2-calendars": "^17.3.14",
+    "glob": "^7.1.4",
+    "gulp": "^4.0.2"
+  }
+}
